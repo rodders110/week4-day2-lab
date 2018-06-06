@@ -1,0 +1,26 @@
+body{
+  background-image: url("Faded_Pizza_CTA_large.png");
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: lighten;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  bottom: 0px;
+  top: 0px;
+  left: 0;
+  position: absolute;
+}
+li{
+  list-style-type: none;
+}
+
+.image{
+  opacity: 0.2;
+
+}
